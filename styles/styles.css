@@ -1,0 +1,23 @@
+.something{
+  background-color: #f3f3f3;
+}
+main{
+  max-width: 870px;
+}
+.top-player{
+  background-color: #FFFF;
+}
+.brand-logo{
+  width: 40px;
+}
+.fix-profile{
+  margin-left:7px ;
+  margin-right: 7px;
+}
+.player img{
+  width: 56px;
+}
+.container-2 img{
+width: 177px;
+}
+
